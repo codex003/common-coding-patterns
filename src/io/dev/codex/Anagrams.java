@@ -1,4 +1,4 @@
-package io.dev.san;
+package io.dev.codex;
 
 import java.util.Arrays;
 import java.util.HashMap;

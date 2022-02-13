@@ -1,4 +1,4 @@
-package io.dev.san;
+package io.dev.codex;
 
 public class Main {
 
