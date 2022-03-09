@@ -4,12 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        String s1 = "salesmen";
-        String s2 = "nameless";
+        ClimbingStairs soln = new ClimbingStairs();
 
-        System.out.println(Anagrams.areAnagramsBF(s1,s2));
-        System.out.println(Anagrams.areAnagramsByHashmap(s1,s2));
-        System.out.println(Anagrams.areAnagramsBySorting(s1,s2));
+        System.out.println("Soln:" + soln.climbStairs(45));
 
     }
 }

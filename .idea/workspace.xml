@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c13cb48f-5685-41e4-b9ec-319d62b932e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/io/dev/codex/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/dev/codex/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/dev/codex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/dev/codex/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644719838602</updated>
       <workItem from="1644719840076" duration="139000" />
+      <workItem from="1646838269180" duration="463000" />
     </task>
     <servers />
   </component>
