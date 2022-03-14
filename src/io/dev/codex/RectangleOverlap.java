@@ -1,5 +1,9 @@
 package io.dev.codex;
 
+// Reference online problems
+// Leetcode: 836. Rectangle Overlap
+// https://leetcode.com/problems/rectangle-overlap/
+
 public class RectangleOverlap {
     public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
         boolean isLeftRect = rec2[2] <= rec1[0];
