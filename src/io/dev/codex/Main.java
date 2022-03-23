@@ -4,9 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        ClimbingStairs soln = new ClimbingStairs();
-
-        System.out.println("Soln:" + soln.climbStairs(45));
+        String[] wordsDict = {"practice", "makes", "perfect", "coding", "makes"};
+        String word1 = "coding";
+        String word2 = "practice";
+        ShortestWordDistanceProblem.shortestDistance(wordsDict, word1, word2);
 
     }
 }
