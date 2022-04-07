@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c13cb48f-5685-41e4-b9ec-319d62b932e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/io/dev/codex/GenerateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/dev/codex/BinarySearchTreeCustom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/dev/codex/RectangleOverlap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/dev/codex/RectangleOverlap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/dev/codex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/dev/codex/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +33,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,6 +71,11 @@
       <workItem from="1646880495019" duration="1262000" />
       <workItem from="1646972538180" duration="794000" />
       <workItem from="1647215351189" duration="2235000" />
+      <workItem from="1648135736457" duration="856000" />
+      <workItem from="1648477782911" duration="3268000" />
+      <workItem from="1648902625259" duration="1336000" />
+      <workItem from="1649021691160" duration="263000" />
+      <workItem from="1649346130729" duration="266000" />
     </task>
     <servers />
   </component>
